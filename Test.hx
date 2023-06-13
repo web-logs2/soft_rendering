@@ -1,6 +1,13 @@
 class Test {
 	static function main() {
-		var a = [for (i in 0...10 * 3) 0];
+		var a = 0;
+		switch (1) {
+			case 1:
+				a = 10;
+			case 2:
+				a = 20;
+		}
 		trace(a);
+		// trace(0);
 	}
 }
