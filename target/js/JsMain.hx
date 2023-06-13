@@ -1,5 +1,7 @@
-import core.FrameBuffer;
+package target.js;
+
 import js.Browser;
+import core.FrameBuffer;
 
 class JsMain {
 	static function main() {

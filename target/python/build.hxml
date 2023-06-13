@@ -1,0 +1,3 @@
+--python target/python/dist/soft_renderer.py
+--main target.python.PyMain
+--library hxmath

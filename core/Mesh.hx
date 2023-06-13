@@ -2,7 +2,6 @@ package core;
 
 import hxmath.math.Vector2;
 import hxmath.math.Vector4;
-import haxe.macro.Expr.Case;
 import core.Material.VectorDict;
 
 class Mesh {
